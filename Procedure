@@ -1,0 +1,7 @@
+Steps to Complete the Assignment:
+1. Read the Dataset: Load the Creditcard_data.csv file into a pandas DataFrame.
+2. Balance the Dataset: Apply techniques like SMOTE to ensure a balanced dataset across classes.
+3. Sample Size Determination: Use the sample size formula.
+4. Create Samples: Generate five samples using different sampling techniques.
+5. Apply Sampling Techniques and ML Models: Use five different sampling techniques on five different ML models.
+6. Evaluate Accuracy: Compare the accuracy of each sampling technique with each model.
